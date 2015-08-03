@@ -3,9 +3,6 @@
 #include <iostream>
 #include <time.h>
 
-
-// This is just a demo, and you'll get errors as there are missing files.
-
 int _tmain(int argc, _TCHAR* argv[])
 {
 	SortableArray TestArray(10);
@@ -24,4 +21,5 @@ int _tmain(int argc, _TCHAR* argv[])
 	TestArray.printElements();
 
 	return 0;
+}
 
