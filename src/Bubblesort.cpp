@@ -1,7 +1,6 @@
 #include "stdafx.h"
 #include <iostream>
-#include <assert.h> // for assert()
-#include <ctime> // for time()
+#include <assert.h>
 #include "Bubblesort.h"
 
 /*

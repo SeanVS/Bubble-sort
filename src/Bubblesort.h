@@ -4,12 +4,8 @@
 class SortableArray
 {
 private:
-	//m_data will point to an array
-	//m_length stores the length of that array
-	int *m_data;
-	int m_length;
-
-	//SortableArray();
+	int *m_data;  //m_data will point to an array
+	int m_length; //m_length stores the length of that array
 
 public:
 	SortableArray(int length);

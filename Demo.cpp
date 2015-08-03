@@ -1,7 +1,10 @@
 #include "stdafx.h"
 #include "Bubblesort.h"
 #include <iostream>
-#include <time.h>
+#include <ctime>
+
+
+// This is just a demo, and you'll get errors as there are missing files.
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -22,4 +25,3 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	return 0;
 }
-
